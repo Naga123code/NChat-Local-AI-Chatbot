@@ -228,13 +228,7 @@ Chatboot/
 Add:
 
 ```env
-DATABASE_URL=sqlite:///./chatbot.db
 
-SECRET_KEY=my-super-secret-key-change-this
-
-OLLAMA_URL=http://localhost:11434
-
-OLLAMA_MODEL=qwen2.5:3b
 ```
 
 ### Important

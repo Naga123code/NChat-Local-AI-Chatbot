@@ -1,5 +1,10 @@
 # 🤖 NChat - Local AI Chatbot
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+
 A full-stack local AI chatbot built using **Streamlit, FastAPI, SQLModel, SQLite, JWT Authentication, and Ollama**.
 
 The chatbot uses the local **Qwen 2.5 3B** model through Ollama, so an OpenAI API key is not required.

@@ -880,12 +880,7 @@ Qwen 2.5 3B
 ```
 
 ---
-Screenshot for frontend aplication :
---------------------------------------
-![alt text](image.png)
-ScreenShot for authorizations,OAuth2PasswordBearer,(OAuth2,password)
-----------------------------------------------------------------------
-![alt text](image-1.png)
+
 
 
 
